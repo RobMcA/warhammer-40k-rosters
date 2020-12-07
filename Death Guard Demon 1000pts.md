@@ -1,3 +1,9 @@
+<head>
+  <style>
+    tr:nth-child(even) {background-color: #f2f2f2;}
+  </style>
+</head>
+
 # The Harbingers
 Battalion Detachment 0CP (Chaos - Death Guard) [53 PL, 5CP, 996pts]
 
