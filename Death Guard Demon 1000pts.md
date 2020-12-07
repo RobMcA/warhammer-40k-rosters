@@ -1,8 +1,10 @@
-<head>
-  <style>
-    tr:nth-child(even) {background-color: #f2f2f2;}
-  </style>
-</head>
+<!-- Sets zebra-sytle tables -->
+<style>
+  tr:nth-child(even) {
+    background-color: #f2f2f2;
+    -webkit-print-color-adjust: exact;
+  }
+</style>
 
 # The Harbingers
 Battalion Detachment 0CP (Chaos - Death Guard) [53 PL, 5CP, 996pts]
@@ -38,6 +40,7 @@ Battalion Detachment 0CP (Chaos - Death Guard) [53 PL, 5CP, 996pts]
 
 **Total: [53 PL, 5CP, 996pts]**
 
+<!-- Forces a page break before the next section -->
 <div style="page-break-before: always"></div>
 
 ## Roster Rules
@@ -65,7 +68,7 @@ previous Movement phase.
 <div style="page-break-inside: avoid">
 
 ## Units
-
+  <!-- Use xx-small to make units and weapons to fit on one page -->
   <div style="font-size: xx-small">
 
 | Unit                        |   M   |  WS   |  BS   |   S   |   T   |   W   |   A   |  Ld   | Save  | Wargear                                                                                                 |
@@ -88,7 +91,7 @@ previous Movement phase.
 | Weapon                             | Range | Type         |   S   |  AP   |   D   | Abilities                                                                                                                                       |
 | ---------------------------------- | ----- | ------------ | :---: | :---: | :---: | ----------------------------------------------------------------------------------------------------------------------------------------------- |
 | **The Epidemicyst Blade**          | Melee | Melee        |  +1   |  -2   |   3   | Plague Weapon. Unmodified hit roll of 6 scores +1 hit.                                                                                          |
-| **Wormspitter**                    | 15"   | Pistol 1     |   5   |  -2   |   1   | Plague Weapon. Hit target is corroded until end of turn. Friendly DEATH GUARD model weapons gain Plague Weapon ability against a corroded unit. |
+| **Wormspitter**                    | 15"   | Pistol 1     |   5   |  -2   |   1   | Plague Weapon. When resolving an attack made with this weapon, if a hit is scored, the target is corroded until the end of the turn. When resolving an attack made with a weapon by a friendly DEATH GUARD model against a corroded unit, that weapon gains the Plague Weapon ability for that attack. |
 | **Blight Grenade**                 | 6"    | Grenade D6   |   3   |   0   |   1   | Plague Weapon. Blast.                                                                                                                           |
 | **Boltgun**                        | 24"   | Rapid Fire 1 |   4   |   0   |   1   |                                                                                                                                                 |
 | **Corrupted staff**                | Melee | Melee        |  +2   |  -1   |  D3   |                                                                                                                                                 |
@@ -154,16 +157,18 @@ previous Movement phase.
 
 ## Malignant Plaguecaster [5 PL, 100pts]
 
+  <div style="font-size: x-small">
+
 | Unit                       |   M   |  WS   |  BS   |   S   |   T   |   W   |   A   |  Ld   | Save  |
 | -------------------------- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | **Malignant Plaguecaster** |  5"   |  3+   |  3+   |   4   |   5   |   4   |   3   |   8   |  3+   |
 
-| Weapon              | Range | Type       |   S   |  AP   |   D   | Abilities             |
-| ------------------- | ----- | ---------- | :---: | :---: | :---: | --------------------- |
-| **Blight Grenade**  | 6"    | Grenade D6 |   3   |   0   |   1   | Plague Weapon. Blast. |
-| **Bolt pistol**     | 12"   | Pistol 1   |   4   |   0   |   1   |                       |
-| **Corrupted staff** | Melee | Melee      |  +2   |  -1   |  D3   |                       |
-| **Krak grenades**   | 6"    | Grenade 1  |   6   |  -1   |  D3   |                       |
+| Weapon              | Range | Type       |   S   |  AP   |   D   | Abilities                                                                                                                                                                                                                                                                                              |
+| ------------------- | ----- | ---------- | :---: | :---: | :---: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Blight Grenade**  | 6"    | Grenade D6 |   3   |   0   |   1   | Plague Weapon. Blast.                                                                                                                                                                                                                                                                                  |
+| **Wormspitter**     | 15"   | Pistol 1   |   5   |  -2   |   1   | Plague Weapon. When resolving an attack made with this weapon, if a hit is scored, the target is corroded until the end of the turn. When resolving an attack made with a weapon by a friendly DEATH GUARD model against a corroded unit, that weapon gains the Plague Weapon ability for that attack. |
+| **Corrupted staff** | Melee | Melee      |  +2   |  -1   |  D3   |                                                                                                                                                                                                                                                                                                        |
+| **Krak grenades**   | 6"    | Grenade 1  |   6   |  -1   |  D3   |                                                                                                                                                                                                                                                                                                        |
 
  | Psycher                    | Cast  | Deny  | Powers Known                                        |
  | -------------------------- | :---: | :---: | --------------------------------------------------- |
@@ -177,7 +182,7 @@ previous Movement phase.
 
 - *Hateful Assault, Death to the False Emperor, Disgustingly Resilient*
 - **Pestilential Fallout:** Each time this model successfully manifests a psychic power with a Psychic test of 7 or more, the nearest enemy unit within 7" suffers a mortal wound after the effects of the psychic power have been resolved.
-
+  </div>
 </div>
 ---
 <div style="page-break-inside: avoid">
