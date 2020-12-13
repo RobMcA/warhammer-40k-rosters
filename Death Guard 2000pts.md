@@ -5,54 +5,45 @@
 </head>
 
 # The Harbingers
+
+<div style="font-size: small">
 Battalion Detachment 0CP (Chaos - Death Guard) [98 PL, 11CP, 1,993pts]
 
 **Rules:** *Daemonic Ritual, Inexorable Advance, Malicious Volleys, Plague Host, Plague Weapon, Hateful Assault*
 
 **Daemon Prince of Nurgle [8 PL, 160pts]:** *Putrescent Vitality, Shamblerot, Smite, **The Epidemicyst Blade**, Warlord*
-
 <!-- TODO: update abilities -->
-**Lord of Contagion [6 PL, 115pts]:** Manreaper
-
+**Lord of Contagion [6 PL, 115pts]:** *Manreaper*
 **Malignant Plaguecaster [5 PL, 100pts]:** *Miasma of Pestilence, Blades of Putrefaction, Blight Grenades, Bolt pistol, Corrupted staff, Krak grenades, Smite*
 
 **7 Plague Marines [8 PL, 146pts]**
-
 - **Plague Champion:** *Blight Grenades, Boltgun, Krak grenades, Plague knife*
 - **5x Plague Marine w/ boltgun:** *5x Blight Grenades, 5x Boltgun, 5x Krak Grenades, 5x Plague knife*
 - **Plague Marine w/ Plasma gun:** Blight Grenades, Krak grenades, Plague knife, Plasma gun
 
 **7 Plague Marines [8 PL, 146pts]**
-
 - **Plague Champion:** *Blight Grenades, Boltgun, Krak grenades, Plague knife*
 - **5x Plague Marine w/ boltgun:** *5x Blight Grenades, 5x Boltgun, 5x Krak Grenades, 5x Plague knife*
 - **Plague Marine w/ Plasma gun:** Blight Grenades, Krak grenades, Plague knife, Plasma gun
 
 **7 Plague Marines [8 PL, 156pts]**
-
 - **Plague Champion:** *Blight Grenades, Boltgun, Krak grenades, Plague knife*
 - **4x Plague Marine w/ boltgun:** *4x Blight Grenades, 4x Boltgun, 4x Krak Grenades, 4x Plague knife*
 - **Plague Marine w/ Blight Launcher:** Blight Grenades, Blight launcher, Krak grenades, Plague knife
 - **Plague Marine w/ Plasma gun:** Blight Grenades, Krak grenades, Plague knife, Plasma gun
 
 **20 Poxwalkers [6 PL, 140pts]:** *20x Improvised weapon*
-
 **20 Poxwalkers [6 PL, 140pts]:** *20x Improvised weapon*
-
-**Noxious Blightbringer [3 PL, 60pts]:** Blight Grenades, Cursed plague bell, Krak grenades, Plasma pistol
-
-**Noxious Blightbringer [3 PL, 60pts]:** Blight Grenades, Cursed plague bell, Krak grenades, Plasma pistol
-
-**Foetid Bloat-drone [7 PL, 155pts]:** 2x Plaguespitter, Plague probe
-
-**Foetid Bloat-drone [7 PL, 155pts]:** 2x Plaguespitter, Plague probe
-
+**Noxious Blightbringer [3 PL, 60pts]:** *Blight Grenades, Cursed plague bell, Krak grenades, Plasma pistol*
+**Noxious Blightbringer [3 PL, 60pts]:** *Blight Grenades, Cursed plague bell, Krak grenades, Plasma pistol*
+**Foetid Bloat-drone [7 PL, 155pts]:** *2x Plaguespitter, Plague probe*
+**Foetid Bloat-drone [7 PL, 155pts]:** *2x Plaguespitter, Plague probe*
 **3 Myphitic Blight-hauler [15 PL, 300pts]:** *Bile spurt, Gnashing maw, Missile launcher - Frag missile, Missile launcher - Krak missile, Multi-melta*
-
-**Plagueburst Crawler [8 PL, -1CP, 160pts]:** 2x Entropy cannon, Accelerated Entropy, Heavy slugger, Plagueburst Mortar
+**Plagueburst Crawler [8 PL, -1CP, 160pts]:** *2x Entropy cannon, Accelerated Entropy, Heavy slugger, Plagueburst Mortar*
 
 **Total: [98 PL, 11CP, 1,993pts]**
 
+</div>
 <div style="page-break-before: always"></div>
 
 ## Roster Rules
@@ -82,40 +73,61 @@ previous Movement phase.
 
 ## Units
 
-  <div style="font-size: xx-small">
+  <div style="font-size: x-small">
 
-| Unit                        |   M   |  WS   |  BS   |   S   |   T   |   W   |   A   |  Ld   | Save  | Wargear                                                                                                 |
-| --------------------------- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | ------------------------------------------------------------------------------------------------------- |
-| **Daemon Prince of Nurgle** |  8"   |  2+   |  2+   |   7   |   6   |   8   |   4   |  10   |  3+   | **The Epidemicyst Blade**                                                                               |
-| **Lord of Contagion**       |  4"   |  2+   |  2+   |   4   |   5   |   6   |   4   |   9   |  2+   | Manreaper                                                                                               |
-| **Malignant Plaguecaster**  |  5"   |  3+   |  3+   |   4   |   5   |   4   |   3   |   8   |  3+   | **Wormspitter**, Blight Grenades, Corrupted staff, Krak grenades                                        |
-| **Plague Champion**         |  5"   |  3+   |  3+   |   4   |   5   |   1   |   2   |   8   |  3+   | Blight Grenades, Boltgun, Krak grenades, Plague knife                                                   |
-| **Plague Marine**           |  5"   |  3+   |  3+   |   4   |   5   |   1   |   1   |   7   |  3+   | Blight Grenades, Boltgun, Krak grenades, Plague knife                                                   |
-| **Poxwalker**               |  4"   |  5+   |  6+   |   3   |   3   |   1   |   2   |   4   |  7+   | Improvised Weapon                                                                                       |
-| **Myphitic Blight-hauler**  |  10"  |  4+   |  4+   |   6   |   7   |   8   |   3   |   8   |  3+   | Bile spurt, Gnashing maw, Missile launcher - Frag missile, Missile launcher - Krak missile, Multi-melta |
+| Unit                        |   M    |  WS   |   BS   |   S   |   T   |    W    |   A   |  Ld   |    Save     | Wargear                                                                                                 |
+| --------------------------- | :----: | :---: | :----: | :---: | :---: | :-----: | :---: | :---: | :---------: | ------------------------------------------------------------------------------------------------------- |
+| **Daemon Prince of Nurgle** |   8"   |  2+   |   2+   |   7   |   6   |    8    |   4   |  10   | 3+/5++/5+++ | **The Epidemicyst Blade**                                                                               |
+| **Lord of Contagion**       |   4"   |  2+   |   2+   |   4   |   5   |    6    |   4   |   9   | 2+/4++/5+++ | Manreaper                                                                                               |
+| **Malignant Plaguecaster**  |   5"   |  3+   |   3+   |   4   |   5   |    4    |   3   |   8   |   3+/5+++   | Bolt Pistol, Blight Grenades, Corrupted staff, Krak grenades                                            |
+| **Noxious Blightbringer**   |   5"   |  3+   |   3+   |   4   |   5   |    4    |   3   |   8   |   3+/5+++   |
+| **Plague Champion**         |   5"   |  3+   |   3+   |   4   |   5   |    1    |   2   |   8   |   3+/5+++   | Blight Grenades, Boltgun, Krak grenades, Plague knife                                                   |
+| **Plague Marine**           |   5"   |  3+   |   3+   |   4   |   5   |    1    |   1   |   7   |   3+/5+++   | Blight Grenades, Boltgun, Krak grenades, Plague knife                                                   |
+| **Poxwalker**               |   4"   |  5+   |   6+   |   3   |   3   |    1    |   2   |   4   |   7+/5+++   | Improvised Weapon                                                                                       |
+| **Myphitic Blight-hauler**  |  10"   |  4+   |   4+   |   6   |   7   |    8    |   3   |   8   | 3+/5+/5+++  | Bile spurt, Gnashing maw, Missile launcher - Frag missile, Missile launcher - Krak missile, Multi-melta |
+| **Foetid Bloat-drone**      |  10"   |  4+   |   4+   |   6   |   7   |   10    |   3   |   8   | 3+/5+/5+++  | Plague probe, 2x Plaguespitter
+|                             | **8"** |       |        | **5** |       |   3-5   | **2** |       |             |
+|                             | **6"** |       |        | **4** |       |   1-2   | **1** |       |             |
+| **Plagueburst Crawler**     |   9"   |  6+   |   4+   | **7** |   8   |   12    |   3   |   8   | 3+/5+/5+++  | Heavy Slugger, 2x Entropy cannon, Plagueburst Mortar
+|                             | **6"** |       | **5+** | **6** |       | **3-5** |       |       |             |
+|                             | **4"** |       | **5+** | **5** |       | **1-2** |       |       |             |
 
   </div>
 </div>
 
+<div style="page-break-inside: avoid">
+
 ## Wargear
 
-<div style="page-break-inside: avoid">
   <div style="font-size: xx-small">
 
-| Weapon                             | Range | Type         |   S   |  AP   |   D   | Abilities                                              |
-| ---------------------------------- | ----- | ------------ | :---: | :---: | :---: | ------------------------------------------------------ |
-| **The Epidemicyst Blade**          | Melee | Melee        |  +1   |  -2   |   3   | Plague Weapon. Unmodified hit roll of 6 scores +1 hit. |
-| **Manreaper**                      | Melee | Melee        |  +3   |  -3   |  D3   | Plague Weapon                                          |
-| **Blight Grenade**                 | 6"    | Grenade D6   |   3   |   0   |   1   | Plague Weapon. Blast.                                  |
-| **Boltgun**                        | 24"   | Rapid Fire 1 |   4   |   0   |   1   |                                                        |
-| **Corrupted staff**                | Melee | Melee        |  +2   |  -1   |  D3   |                                                        |
-| **Krak grenades**                  | 6"    | Grenade 1    |   6   |  -1   |  D3   |                                                        |
-| **Plague knife**                   | Melee | Melee        | User  |   0   |   1   | Plague Weapon                                          |
-| **Bile spurt**                     | 12"   | Assault D3   |   6   |  -1   |   1   | Plague Weapon. Blast.                                  |
-| **Gnashing maw**                   | Melee | Melee        | User  |  -2   |   1   | Plague Weapon                                          |
-| **Missile launcher, Frag missile** | 48"   | Heavy D6     |   4   |   0   |   1   | Blast.                                                 |
-| **Missile launcher, Krak missile** | 48"   | Heavy 1      |   8   |  -2   |  D6   |                                                        |
-| **Multi-melta**                    | 24"   | Heavy 2      |   8   |  -4   |  D6   | Half range damage is D6+2.                             |
+| Weapon                                       | Range   | Type         |   S   |  AP   |   D   | Abilities                                                                                                                                |
+| -------------------------------------------- | ------- | ------------ | :---: | :---: | :---: | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| **The Epidemicyst Blade**                    | Melee   | Melee        |  +1   |  -2   |   3   | Plague Weapon. Unmodified hit roll of 6 scores +1 hit.                                                                                   |
+| **Manreaper**                                | Melee   | Melee        |  +3   |  -3   |  D3   | Plague Weapon                                                                                                                            |
+| **Blight Grenade**                           | 6"      | Grenade D6   |   3   |   0   |   1   | Plague Weapon. Blast.                                                                                                                    |
+| **Boltgun**                                  | 24"     | Rapid Fire 1 |   4   |   0   |   1   |                                                                                                                                          |
+| **Corrupted staff**                          | Melee   | Melee        |  +2   |  -1   |  D3   |                                                                                                                                          |
+| **Krak grenades**                            | 6"      | Grenade 1    |   6   |  -1   |  D3   |                                                                                                                                          |
+| **Plague knife**                             | Melee   | Melee        | User  |   0   |   1   | Plague Weapon                                                                                                                            |
+| **Bile spurt**                               | 12"     | Assault D3   |   6   |  -1   |   1   | Plague Weapon. Blast.                                                                                                                    |
+| **Gnashing maw**                             | Melee   | Melee        | User  |  -2   |   1   | Plague Weapon                                                                                                                            |
+| **Missile launcher, Frag missile**           | 48"     | Heavy D6     |   4   |   0   |   1   | Blast.                                                                                                                                   |
+| **Missile launcher, Krak missile**           | 48"     | Heavy 1      |   8   |  -2   |  D6   |                                                                                                                                          |
+| **Multi-melta**                              | 24"     | Heavy 2      |   8   |  -4   |  D6   | Half range damage is D6+2.                                                                                                               |
+| **Cursed plague bell**                       | Melee   | Melee        | User  |   0   |   2   | Plague Weapon                                                                                                                            |
+| **Plasma pistol, Standard**                  | 12"     | Pistol 1     |   7   |  -3   |   1   |                                                                                                                                          |  |
+| **Plasma pistol, Supercharge**               | 12"     | Pistol 1     |   8   |  -3   |   2   | If any unmodified hit rolls of 1 are made for attacks with this weapon profile, the bearer is destroyed after shooting with this weapon. |
+| **Plague probe**                             | Melee   | Melee        | User  |  -2   |  D3   | Plague Weapon                                                                                                                            |
+| **Plaguespitter**                            | 9"      | Assault D6   | User  |  -1   |   1   | Plague Weapon. This weapon automatically hits its target.                                                                                |
+| **Plasma gun, Standard**                     | 24"     | Rapid Fire 1 |   7   |  -3   |   1   |                                                                                                                                          |
+| **Plasma gun, Supercharge**                  | 24"     | Rapid Fire 1 |   8   |  -3   |   2   | If any unmodified hit rolls of 1 are made for attacks with this weapon profile, the bearer is destroyed after shooting with this weapon. |
+| **Blight launcher**                          | 24"     | Assault 2    |   6   |  -2   |  D3   | Plague Weapon                                                                                                                            |
+| **Power fist**                               | Melee   | Melee        |  x2   |  -3   |   2   | Each time an attack is made with this weapon, subtract 1 from that attack’s hit roll.                                                    |
+| **Entropy cannon (Accelerated Entropy)** | 36"     | Heavy 1      |   8   |  -4   |  D6   | Plague Weapon. When resolving an attack with this weapon, a damage roll of 1 or 2 counts as 3 instead.                               |
+| **Heavy slugger**                            | 36"     | Heavy 4      |   5   |  -1   |   1   |                                                                                                                                          |  |
+| **Plagueburst Mortar**                       | 12"-48" | Heavy D6     |   8   |  -2   |  D3   | Plague Weapon. This weapon can target units that are not visible to the bearer. Blast.                                                   |
+
   </div>
 </div>
 <div style="page-break-inside: avoid">
@@ -138,7 +150,9 @@ previous Movement phase.
 
 </div>
 
-<div style="page-break-before: always"></div>
+<!-- force a blank page so unit lists start on new 2-sided page -->
+<div style="page-break-before: always; page-break-after: always">&nbsp;</div>
+
 <div style="page-break-inside: avoid">
 
 ## Daemon Prince of Nurgle [8 PL, 160pts]
@@ -184,6 +198,9 @@ previous Movement phase.
 - **Nurgle's Gift:** All DEATH GUARD units within 7" of a friendly LORD OF CONTAGION are surrounded by a deadly aura of plague and disease. Roll a dice for each enemy unit that is within 1" of any affected friendly units at the start of your turn; on a 4+ that enemy unit suffers a mortal wound.
 - **Teleport Strike:** During deployment, you can set up this model in a teleportarium chamber instead of placing it on the battlefield. At the end of any of your Movement phases the model can use a teleport strike to arrive on the battlefield - set it up anywhere on the battlefield that is more than 9" away from any enemy models.
 
+</div>
+<div style="page-break-inside: avoid">
+
 ## Malignant Plaguecaster [5 PL, 100pts]
 
 | Unit                       |   M   |  WS   |  BS   |   S   |   T   |   W   |   A   |  Ld   | Save  |
@@ -211,6 +228,7 @@ previous Movement phase.
 - **Pestilential Fallout:** Each time this model successfully manifests a psychic power with a Psychic test of 7 or more, the nearest enemy unit within 7" suffers a mortal wound after the effects of the psychic power have been resolved.
 
 </div>
+<div style="page-break-inside: avoid">
 
 ## Noxious Blightbringer [3 PL, 60pts]
 
@@ -218,18 +236,18 @@ previous Movement phase.
 | ------------------------- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | **Noxious Blightbringer** |  5"   |  3+   |  3+   |   4   |   5   |   4   |   3   |   8   |  3+   |
 
-| Weapon                         | Range       | Type          |   S    |  AP   |   D   | Abilities                                                                                                                                |
-| ------------------------------ | ----------- | ------------- | :----: | :---: | :---: | ---------------------------------------------------------------------------------------------------------------------------------------- |
-| **Blight Grenade**             | 6"          | Grenade D6    |   3    |   0   |   1   | Plague Weapon. Blast.                                                                                                                    |
-| **Cursed plague bell**         | Range:Melee | Type:Melee    | S:User | AP:0  |  D:2  | Plague Weapon                                                                                                                            |
-| **Krak grenades**              | 6"          | Grenade 1     |   6    |  -1   |  D3   |                                                                                                                                          |
-| **Plasma pistol, Standard**    | Range:12"   | Type:Pistol 1 |  S:7   | AP:-3 |  D:1  |                                                                                                                                          |  |
-| **Plasma pistol, Supercharge** | Range:12"   | Type:Pistol 1 |  S:8   | AP:-3 |  D:2  | If any unmodified hit rolls of 1 are made for attacks with this weapon profile, the bearer is destroyed after shooting with this weapon. |
+| Weapon                         | Range | Type       |   S   |  AP   |   D   | Abilities                                                                                                                                |
+| ------------------------------ | ----- | ---------- | :---: | :---: | :---: | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| **Blight Grenade**             | 6"    | Grenade D6 |   3   |   0   |   1   | Plague Weapon. Blast.                                                                                                                    |
+| **Cursed plague bell**         | Melee | Melee      | User  |   0   |   2   | Plague Weapon                                                                                                                            |
+| **Krak grenades**              | 6"    | Grenade 1  |   6   |  -1   |  D3   |                                                                                                                                          |
+| **Plasma pistol, Standard**    | 12"   | Pistol 1   |   7   |  -3   |   1   |                                                                                                                                          |  |
+| **Plasma pistol, Supercharge** | 12"   | Pistol 1   |   8   |  -3   |   2   | If any unmodified hit rolls of 1 are made for attacks with this weapon profile, the bearer is destroyed after shooting with this weapon. |
 
 - *Hateful Assault, Death to the False Emperor, Disgustingly Resilient*
 - **Tocsin of Misery:** Units must subtract 1 from their Leadership whilst they are within 7" of any enemy Noxious Blightbringers (PSYKERS must subtract 2 instead). In addition, if a DEATH GUARD unit is within 7" of this model when it Advances, roll two dice and discard the lowest result when determining the distance.
- 
----
+
+</div> 
 <div style="page-break-inside: avoid">
 
 ## Plague Marines
@@ -253,9 +271,6 @@ previous Movement phase.
 - *Hateful Assault, Death to the False Emperor, Disgustingly Resilient, Vectors of Death and Disease*
 
 </div>
-
----
-
 <div style="page-break-inside: avoid">
 
 ## Poxwalkers [6 PL, 112pts]
@@ -274,26 +289,28 @@ previous Movement phase.
 - **Mindless:** This unit never has to take Morale tests.
 
 </div>
----
 <div style="page-break-inside: avoid">
 
 ## Foetid Bloat-drone [7 PL, 155pts]
 
-| Unit                   | M      | WS  | BS  | S     | T   | W   | A     | Ld  | Save |
-| ---------------------- | ------ | --- | --- | ----- | --- | --- | ----- | --- | ---- |
-| **Foetid Bloat-drone** | 10"    | 4+  | 4+  | 6     | 7   | 10  | 3     | 8   | 3+   |
-| **Foetid Bloat-drone** | **8"** | 4+  | 4+  | **5** | 7   | 3-5 | **2** | 8   | 3+   |
-| **Foetid Bloat-drone** | **6"** | 4+  | 4+  | **4** | 7   | 1-2 | **1** | 8   | 3+   |
+| Unit                   | M      | WS  | BS  | S     | T   | W       | A     | Ld  | Save |
+| ---------------------- | ------ | --- | --- | ----- | --- | ------- | ----- | --- | ---- |
+| **Foetid Bloat-drone** | 10"    | 4+  | 4+  | 6     | 7   | 10      | 3     | 8   | 3+   |
+|                        | **8"** | 4+  | 4+  | **5** | 7   | **3-5** | **2** | 8   | 3+   |
+|                        | **6"** | 4+  | 4+  | **4** | 7   | **1-2** | **1** | 8   | 3+   |
 
-| Weapon            | Range       | Type            | S      | AP    | D    | Abilities                                                |
-| ----------------- | ----------- | --------------- | ------ | ----- | ---- | -------------------------------------------------------- |
-| **Plague probe**  | Range:Melee | Type:Melee      | S:User | AP:-2 | D:D3 | Plague Weapon                                            |
-| **Plaguespitter** | Range:9"    | Type:Assault D6 | S:User | AP:-1 | D:1  | Plague Weapon.This weapon automatically hits its target. |
-| **Plaguespitter** | Range:9"    | Type:Assault D6 | S:User | AP:-1 | D:1  | Plague Weapon.This weapon automatically hits its target. |
+| Weapon            | Range | Type       | S    | AP  | D   | Abilities                                                |
+| ----------------- | ----- | ---------- | ---- | --- | --- | -------------------------------------------------------- |
+| **Plague probe**  | Melee | Melee      | User | -2  | D3  | Plague Weapon                                            |
+| **Plaguespitter** | 9"    | Assault D6 | User | -1  | 1   | Plague Weapon.This weapon automatically hits its target. |
+| **Plaguespitter** | 9"    | Assault D6 | User | -1  | 1   | Plague Weapon.This weapon automatically hits its target. |
 
 - *Hateful Assault, Disgustingly Resilient*
 - **Daemonic:** This model has a 5+ invulnerable save.
 - **Putrid Explosion:** If this model is reduced to 0 wounds, roll a D6 before removing it from the battlefield; on a 4+ it explodes, and each unit within 7" suffers 1 mortal wound.
+
+</div>
+<div style="page-break-inside: avoid">
 
 ## Myphitic Blight-haulers [5 PL, 100pts]
 
@@ -316,14 +333,15 @@ previous Movement phase.
 - **Putrid Explosion:** If a Myphitic Blight-hauler is reduced to 0 Wounds, roll a dice before removing it from the battlefield, on a 4+ it explodes, and each unit within 7" suffers 1 mortal wound.
 
 </div>
+<div style="page-break-inside: avoid">
 
 ## Plagueburst Crawler [8 PL, -1CP, 160pts]
 
-| Unit                    | M      | WS  | BS     | S     | T   | W   | A   | Ld  | Save |
-| ----------------------- | ------ | --- | ------ | ----- | --- | --- | --- | --- | ---- |
-| **Plagueburst Crawler** | 9"     | 6+  | 4+     | **7** | 8   | 12  | 3   | 8   | 3+   |
-| **Plagueburst Crawler** | **6"** | 6+  | **5+** | **6** | 8   | 12  | 3   | 8   | 3+   |
-| **Plagueburst Crawler** | **4"** | 6+  | **5+** | **5** | 8   | 12  | 3   | 8   | 3+   |
+| Unit                    | M      | WS  | BS     | S     | T   | W       | A   | Ld  | Save |
+| ----------------------- | ------ | --- | ------ | ----- | --- | ------- | --- | --- | ---- |
+| **Plagueburst Crawler** | 9"     | 6+  | 4+     | **7** | 8   | 12      | 3   | 8   | 3+   |
+|                         | **6"** | 6+  | **5+** | **6** | 8   | **3-5** | 3   | 8   | 3+   |
+|                         | **4"** | 6+  | **5+** | **5** | 8   | **1-2** | 3   | 8   | 3+   |
 
 | Weapon                                       | Range   | Type     | S   | AP  | D   | Abilities                                                                                                  |
 | -------------------------------------------- | ------- | -------- | --- | --- | --- | ---------------------------------------------------------------------------------------------------------- |
